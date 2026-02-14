@@ -62,7 +62,6 @@ How to make your car bulletproof. We implement a software **"Servo Saver"** inco
 
 Each module contains detailed `README` explanations, schematic images to trace connections, and the heavily commented C++ code required for that step.
 
-Grab your chassis, charge your LiPo, and let's start building!
 
 ---
 
