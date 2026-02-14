@@ -119,7 +119,7 @@ The RDDRONE board includes built-in sensors to detect the car's motion:
 * **Accelerometer & Magnetometer:** Connected to pins `PTB2` (ACC_INT1) and `PTB3` (ACC_INT2). They communicate data via the I2C0 bus on pins `PTE24` and `PTE25`.
 * **Gyroscope:** Connected to pins `PTD0` (GYR_INT1) and `PTD1` (GYR_INT2).
 
-> 📖 **Further Reading:** Check out the official [RDDRONE Design Files]([https://nxp.gitbook.io/nxp-cup/](https://www.nxp.com/design/design-center/development-boards-and-designs/RDDRONE-CUPK64?#design-resources)) for specific hardware constraints and competition rules regarding sensor placement.
+>📖 **Further Reading:** Check out the official [RDDRONE Design Files](https://www.nxp.com/design/design-center/development-boards-and-designs/RDDRONE-CUPK64?#design-resources) for specific hardware constraints and competition rules regarding sensor placement.
 
 
 <a href="pic/SPF-47762.PDF">
